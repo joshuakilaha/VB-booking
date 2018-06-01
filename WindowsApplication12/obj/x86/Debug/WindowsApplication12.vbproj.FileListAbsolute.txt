@@ -1,0 +1,70 @@
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.exe
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.pdb
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.xml
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.exe
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.xml
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.pdb
+C:\Users\16-0925\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.exe
+F:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.xml
+F:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.pdb
+F:\12\WindowsApplication12\bin\Debug\WindowsApplication12.exe
+F:\12\WindowsApplication12\bin\Debug\WindowsApplication12.pdb
+F:\12\WindowsApplication12\bin\Debug\WindowsApplication12.xml
+F:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
+E:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.exe
+E:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.xml
+E:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.pdb
+E:\12\WindowsApplication12\bin\Debug\WindowsApplication12.exe
+E:\12\WindowsApplication12\bin\Debug\WindowsApplication12.pdb
+E:\12\WindowsApplication12\bin\Debug\WindowsApplication12.xml
+E:\12\WindowsApplication12\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\12\WindowsApplication12\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\12\WindowsApplication12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.exe
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.xml
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.pdb
+C:\Users\16-0925\Desktop\12\WindowsApplication12\bin\Debug\WindowsApplication12.exe
+C:\Users\16-0925\Desktop\12\WindowsApplication12\bin\Debug\WindowsApplication12.pdb
+C:\Users\16-0925\Desktop\12\WindowsApplication12\bin\Debug\WindowsApplication12.xml
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\16-0925\Desktop\12\WindowsApplication12\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
+D:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.vbproj.CoreCompileInputs.cache
+D:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.xml
+D:\12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.pdb
+F:\12\WindowsApplication12\bin\Debug\login.accdb
+F:\12\WindowsApplication12\bin\Debug\WindowsApplication12.exe.config
